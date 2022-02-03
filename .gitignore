@@ -1,0 +1,49 @@
+.idea/
+test_data
+bin/
+.vscode/
+.DS_Store
+*.log
+.history
+*.bat
+
+# temp file during testing
+*.test
+.vscode/
+cpu_profile
+*gomock*
+*.db
+
+# config files
+broker.toml
+storage.toml
+standalone.toml
+
+## Go
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# mock files
+*mock.go
+*mock.pb.go
+*mock_test.go
+
+# docker cluster
+docker/broker*/
+docker/storage*/
+
+default.etcd
+web/node_modules/
+web/build/*
+web/yarn-error.log
+web/package-lock.json
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out

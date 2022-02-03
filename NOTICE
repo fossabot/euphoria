@@ -1,0 +1,13 @@
+Euphoria
+Copyright 2022 Yufan Sheng.
+
+This product includes software developed at The Apache Software Foundation (https://www.apache.org/).
+
+The Initial Developer of some parts of the application, which are copied from, derived from, or
+inspired by Talebook. (https://github.com/talebook/talebook)
+
+This distribution has a binary dependency on aconfig, which is available under the MIT License.
+The source code of aconfig can be found at https://github.com/cristalhq/aconfig.
+
+This distribution has a binary dependency on gofiber, which is available under the MIT License.
+The source code of gofiber can be found at https://github.com/gofiber/fiber.
