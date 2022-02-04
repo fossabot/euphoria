@@ -9,6 +9,7 @@
 [![Github Actions Status](https://github.com/syhily/euphoria/workflows/Forntend%20CI/badge.svg)](https://github.com/syhily/euphoria/actions?query=workflow%3A%22Forntend+CI%22)
 [![codecov](https://codecov.io/gh/syhily/euphoria/branch/master/graph/badge.svg)](https://codecov.io/gh/syhily/euphoria)
 [![contribution](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsyhily%2Feuphoria.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsyhily%2Feuphoria?ref=badge_shield)
 
 ## What is Euphoria?
 
@@ -54,3 +55,6 @@ patches and the contribution workflow.
 ## License
 
 Euphoria is licensed under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsyhily%2Feuphoria.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsyhily%2Feuphoria?ref=badge_large)
